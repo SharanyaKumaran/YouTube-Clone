@@ -29,7 +29,7 @@ Ensure you have a web browser installed (Chrome, Firefox, Safari, etc.).
 1. Clone the repository:
 
    ```bash
-   [git clone https://github.com/SharanyaKumaran/youtube-clone.git](https://github.com/SharanyaKumaran/YouTube-Clone/tree/main)
+   [git clone https://github.com/SharanyaKumaran/youtube-clone.git]([https://github.com/SharanyaKumaran/YouTube-Clone/tree/main](https://github.com/SharanyaKumaran/YouTube-Clone))
    ```
 
 2. Navigate to the project directory:
